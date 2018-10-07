@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Cpp_deitel_exercise_functions" Database="" Version="10.0.0">
+  <Project Name="numbers_squared" Path="numbers_squared/numbers_squared.project" Active="No"/>
+  <Project Name="large_number" Path="large_number/large_number.project" Active="No"/>
+  <Project Name="math_functions" Path="math_functions/math_functions.project" Active="No"/>
+  <Project Name="combination" Path="combination/combination.project" Active="No"/>
+  <Project Name="random_numbers" Path="random_numbers/random_numbers.project" Active="No"/>
+  <Project Name="craps_game" Path="barbut_game/barbut_game.project" Active="No"/>
+  <Project Name="nd_degree_equation" Path="2_degree_equation/2_degree_equation.project" Active="No"/>
+  <Project Name="reverse_number" Path="reverse_number/reverse_number.project" Active="No"/>
+  <Project Name="prime_control" Path="prime_control/prime_control.project" Active="No"/>
+  <Project Name="reverse_number_2" Path="reverse_number_2/reverse_number_2.project" Active="No"/>
+  <Project Name="rectangle_draw" Path="rectangle_draw/rectangle_draw.project" Active="No"/>
+  <Project Name="gcd_calculate_while" Path="ebob_calculate/ebob_calculate.project" Active="No"/>
+  <Project Name="gcd_calculate_for" Path="ebob_2/ebob_2.project" Active="No"/>
+  <Project Name="lcm_calculation_while" Path="scf_calculation_while/scf_calculation_while.project" Active="No"/>
+  <Project Name="odd_even_control" Path="odd_even_control/odd_even_control.project" Active="No"/>
+  <Project Name="activity_area" Path="activity_area/activity_area.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="numbers_squared" ConfigName="Debug"/>
+      <Project Name="large_number" ConfigName="Debug"/>
+      <Project Name="large_number" ConfigName="Debug"/>
+      <Project Name="math_functions" ConfigName="Debug"/>
+      <Project Name="combination" ConfigName="Debug"/>
+      <Project Name="random_numbers" ConfigName="Debug"/>
+      <Project Name="craps_game" ConfigName="Debug"/>
+      <Project Name="nd_degree_equation" ConfigName="Debug"/>
+      <Project Name="reverse_number" ConfigName="Debug"/>
+      <Project Name="prime_control" ConfigName="Debug"/>
+      <Project Name="reverse_number_2" ConfigName="Debug"/>
+      <Project Name="rectangle_draw" ConfigName="Debug"/>
+      <Project Name="gcd_calculate_while" ConfigName="Debug"/>
+      <Project Name="gcd_calculate_for" ConfigName="Debug"/>
+      <Project Name="lcm_calculation_while" ConfigName="Debug"/>
+      <Project Name="odd_even_control" ConfigName="Debug"/>
+      <Project Name="activity_area" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="numbers_squared" ConfigName="Release"/>
+      <Project Name="large_number" ConfigName="Release"/>
+      <Project Name="large_number" ConfigName="Release"/>
+      <Project Name="math_functions" ConfigName="Release"/>
+      <Project Name="combination" ConfigName="Release"/>
+      <Project Name="random_numbers" ConfigName="Release"/>
+      <Project Name="craps_game" ConfigName="Release"/>
+      <Project Name="nd_degree_equation" ConfigName="Release"/>
+      <Project Name="reverse_number" ConfigName="Release"/>
+      <Project Name="prime_control" ConfigName="Release"/>
+      <Project Name="reverse_number_2" ConfigName="Release"/>
+      <Project Name="rectangle_draw" ConfigName="Release"/>
+      <Project Name="gcd_calculate_while" ConfigName="Release"/>
+      <Project Name="gcd_calculate_for" ConfigName="Release"/>
+      <Project Name="lcm_calculation_while" ConfigName="Release"/>
+      <Project Name="odd_even_control" ConfigName="Release"/>
+      <Project Name="activity_area" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

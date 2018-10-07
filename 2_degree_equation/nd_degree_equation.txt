@@ -1,0 +1,1 @@
+./Debug/nd_degree_equation.cpp.o   

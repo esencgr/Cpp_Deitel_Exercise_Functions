@@ -1,0 +1,25 @@
+[{
+  "file": "D:\\C Codes\\Cpp_deitel_exercise_functions\\barbut_game\\craps_game.cpp",
+  "directory": "D:\\C Codes\\Cpp_deitel_exercise_functions\\barbut_game",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\C Codes\\Cpp_deitel_exercise_functions\\barbut_game\\craps_game.cpp\" -o \"D:\\C Codes\\Cpp_deitel_exercise_functions\\barbut_game\\craps_game.cpp\".o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "D:\\C Codes\\Cpp_deitel_exercise_functions\\random_numbers\\random_numbers.cpp",
+  "directory": "D:\\C Codes\\Cpp_deitel_exercise_functions\\random_numbers",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\C Codes\\Cpp_deitel_exercise_functions\\random_numbers\\random_numbers.cpp\" -o \"D:\\C Codes\\Cpp_deitel_exercise_functions\\random_numbers\\random_numbers.cpp\".o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "D:\\C Codes\\Cpp_deitel_exercise_functions\\combination\\combination.cpp",
+  "directory": "D:\\C Codes\\Cpp_deitel_exercise_functions\\combination",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\C Codes\\Cpp_deitel_exercise_functions\\combination\\combination.cpp\" -o \"D:\\C Codes\\Cpp_deitel_exercise_functions\\combination\\combination.cpp\".o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "D:\\C Codes\\Cpp_deitel_exercise_functions\\math_functions\\math_functions.cpp",
+  "directory": "D:\\C Codes\\Cpp_deitel_exercise_functions\\math_functions",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\C Codes\\Cpp_deitel_exercise_functions\\math_functions\\math_functions.cpp\" -o \"D:\\C Codes\\Cpp_deitel_exercise_functions\\math_functions\\math_functions.cpp\".o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "D:\\C Codes\\Cpp_deitel_exercise_functions\\numbers_squared\\numbers_squared.cpp",
+  "directory": "D:\\C Codes\\Cpp_deitel_exercise_functions\\numbers_squared",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\C Codes\\Cpp_deitel_exercise_functions\\numbers_squared\\numbers_squared.cpp\" -o \"D:\\C Codes\\Cpp_deitel_exercise_functions\\numbers_squared\\numbers_squared.cpp\".o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "D:\\C Codes\\Cpp_deitel_exercise_functions\\large_number\\large_number.cpp",
+  "directory": "D:\\C Codes\\Cpp_deitel_exercise_functions\\large_number",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c \"D:\\C Codes\\Cpp_deitel_exercise_functions\\large_number\\large_number.cpp\" -o \"D:\\C Codes\\Cpp_deitel_exercise_functions\\large_number\\large_number.cpp\".o  -g  -O0  -Wall -I. -I."
+ }]
