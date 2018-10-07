@@ -1,1 +1,0 @@
-./Debug/lcm_calculation_while.cpp.o   
