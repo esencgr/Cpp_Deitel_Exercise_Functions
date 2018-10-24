@@ -7,18 +7,35 @@ void product_game (void);
 void correct_message (void);
 void incorrect_message (void);
 void performance (int, int, int);
+int rand_value(int);
+
 int main(){
     srand (time (NULL));
     product_game ();
     return 0;
 }
-
+int rand_value (int level){
+    switch (level){
+    case 1:
+         return rand() % 10;
+    case 2:
+         return rand() % 100;    
+    case 3:
+         return rand() % 1000;
+    default:
+         return rand() % 10;
+    }
+}
 void product_game (void){
     int num1, temp, num2, response=0, correct=0, incorrect=0 ;
     cout << "enter -1 to end " << endl;
+    int grade_level;
+    
+    cout << "enter grade level 1 to 3 = ";
+    cin >> grade_level;
     for ( int i = 1; i <= 5; ++i){
-        num1 = rand() % 10; 
-        num2 = rand() % 10;
+        num1 = rand_value (grade_level); 
+        num2 = rand_value (grade_level);
         cout << num1 << " * " << num2 << " = " ;
         cin >> response;
         temp = num1 * num2;
