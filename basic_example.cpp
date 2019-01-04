@@ -6,10 +6,10 @@ int main(int argc, char **argv)
 {
     int x,y;
     do {
-    cout << "enter two number:";
-    cin >> x;
-    cin >> y;
-    cout << function (x , y) << endl;
+       cout << "enter two number:";
+       cin >> x;
+       cin >> y;
+       cout << function (x , y) << endl;
     } while ( x != -1);
     return 0;
 }
@@ -19,5 +19,5 @@ int function(int a , int b){
         return 1;
     else
         return 0;
- 
+
 }
