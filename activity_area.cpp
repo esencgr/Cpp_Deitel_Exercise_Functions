@@ -9,20 +9,20 @@ void c (void);
 int x = 1;  // global variable
 
 int main(){
-    
+
     int x = 5; // local variable of main
     cout << "main'in faaliyet alani disindaki yerel x degiskeni = " << x << endl;
 
-    { // new activity area 
-    
+    { // new activity area
+
         int x = 7 ;
         cout << "main'in faaliyet alani icindeki yerel x degiskeni = " << x << endl;
-    
+
     } // end (new)
-    
+
     cout << "main'in faaliyet alani disindaki yerel x degiskeni = " << x << endl;
-    
-    a();   
+
+    a();
     b();
     c();
     a();
@@ -45,9 +45,8 @@ void b (void){
     cout << "b ye cikmadan once statik x degiskeni = " << x << endl;
 }
 void c (void){
-  
+
     cout << "\nc ye girdikten sonra global x degiskeni = " << x << endl;
     x *= 10;
-    cout << "c ye cikmadan once global x degiskeni = " << x << endl; 
+    cout << "c ye cikmadan once global x degiskeni = " << x << endl;
 }
- 
