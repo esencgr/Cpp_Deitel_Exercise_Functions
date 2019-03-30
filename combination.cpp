@@ -7,18 +7,18 @@ int factoriel(int x){
         carpim = carpim * i;
     return carpim;
 }
- 
+
 int combination(int y, int r){
-    return factoriel(y) / (factoriel(r) * factoriel(y-r)); 
+    return factoriel(y) / (factoriel(r) * factoriel(y-r));
 }
 
 int main(){
      int x;
-     cout << " enter x = ";
+     cout << " enter number = ";
      cin >> x;
-     cout << " x!= " << factoriel(x) << endl;
+     cout << x << "!= " << factoriel(x) << endl;
      int n,r;
      cout << " enter y and r = ";
-     cin >> n >> r; 
+     cin >> n >> r;
      cout << " c(n,r)= " << combination(n,r);
-} 
+}
