@@ -11,15 +11,15 @@ int main()
 }
 void towers (int disks, int start, int finish, int temp){
     if (disks == 1){
-        cout << start << " -> " << finish << endl; 
+        cout << start << " -> " << finish << endl;
         return ;
     }
-    // move disks - 1 disks from start to temp 
+    // move disks - 1 disks from start to temp
     towers (disks - 1, start, temp, finish);
-    
+
     // move last disk from start to finish
     cout << start << " -> " << finish << endl;
-    
+
     // move disks - 1 disks from temp to finish
     towers( disks - 1, temp, finish, start );
 }
