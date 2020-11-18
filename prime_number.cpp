@@ -5,7 +5,7 @@ using namespace std;
 bool prime_number(int);
 int main(){
     int count = 0;
-    for (int number=2; number<=1000; number++){
+    for (int number=2; number<=100; number++){
         
         if  (prime_number(number)){
             count++;
@@ -15,7 +15,7 @@ int main(){
         }
             
     }
-    
+    printf("\n");
     return 0;
 }
 bool prime_number(int num){

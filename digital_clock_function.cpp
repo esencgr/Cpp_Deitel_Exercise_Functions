@@ -12,7 +12,7 @@ int seconds = 0;
 void displayClock()
 {
     // system call to clear the screen
-    system("cls");
+    system("clear");
     cout << "\t"<< "TIMER\n";
     cout << "\t"<< hours << " : ";
     cout << minutes << " : ";

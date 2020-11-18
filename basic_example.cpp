@@ -10,12 +10,12 @@ int main(int argc, char **argv)
        cin >> x;
        cin >> y;
        cout << function (x , y) << endl;
-    } while ( x != -1);
+    } while ( x != -1 );
     return 0;
 }
 
 int function(int a , int b){
-    if (a % b == 0)
+    if (a * b >= 90)
         return 1;
     else
         return 0;
